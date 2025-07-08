@@ -9,7 +9,7 @@ A beautiful, feature-rich weather application built with React Native and Expo, 
 
 ## 🎯 **Overview**
 
-WeatherPro delivers real-time weather information with a sleek, intuitive interface that adapts to time of day and weather conditions. Built to demonstrate advanced React Native skills and modern app development practices.
+WeatherWise delivers real-time weather information with a sleek, intuitive interface that adapts to time of day and weather conditions. Built to demonstrate advanced React Native skills and modern app development practices.
 
 ## 🎬 **Demo**
 
