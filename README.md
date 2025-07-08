@@ -217,7 +217,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |-------------|----------------|---------------|
 | ![Home](screenshots/ss1.png) | ![Details](screenshots/ss2.png) |
 
-*Add your app screenshots to `/screenshots` folder*
 
 ## 🙏 **Acknowledgments**
 
