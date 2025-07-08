@@ -1,4 +1,4 @@
-const API_KEY = process.env.EXPO_PUBLIC_WEATHER_API_KEY || '373be0f70bc79bc778088edddfd2cdce';
+const API_KEY = process.env.EXPO_PUBLIC_WEATHER_API_KEY;
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 export const getWeatherData = async (lat, lon) => {
